@@ -1,0 +1,11 @@
+.image {
+    width: 400px;
+    height: 300px;
+}
+
+@media(max-width: 541px) {
+    .image {
+        width: 200px;
+        height: 100px;
+    } 
+}
